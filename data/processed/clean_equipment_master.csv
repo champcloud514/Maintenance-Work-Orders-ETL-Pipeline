@@ -1,0 +1,81 @@
+equipment_id,equipment_name,equipment_type,field_location,commissioned_date,criticality
+EQ-0001,Pump-001,Heat Exchanger,TEN,2017-08-20,Medium
+EQ-0002,Generator-002,Valve,Jubilee,2015-11-20,Low
+EQ-0003,Generator-003,Pump,Onshore Base,2020-01-18,Medium
+EQ-0004,Valve-004,Heat Exchanger,Jubilee,2022-07-11,High
+EQ-0005,Valve-005,Generator,Jubilee,2023-01-04,High
+EQ-0006,Heat Exchanger-006,Generator,Jubilee,2016-11-21,High
+EQ-0007,Pump-007,Pump,TEN,2016-12-10,High
+EQ-0008,Generator-008,Compressor,TEN,2015-04-23,Medium
+EQ-0009,Compressor-009,Generator,Jubilee,2016-02-28,High
+EQ-0010,Pump-010,Heat Exchanger,TEN,2019-07-23,Medium
+EQ-0011,Valve-011,Valve,Jubilee,2019-06-29,Medium
+EQ-0012,Heat Exchanger-012,Heat Exchanger,TEN,2018-01-17,Medium
+EQ-0013,Generator-013,Heat Exchanger,Jubilee,2017-07-18,High
+EQ-0014,Generator-014,Compressor,Jubilee,2021-10-25,Low
+EQ-0015,Generator-015,Heat Exchanger,Jubilee,2018-10-12,Medium
+EQ-0016,Generator-016,Compressor,TEN,2021-08-21,Medium
+EQ-0017,Valve-017,Compressor,Jubilee,2022-11-29,High
+EQ-0018,Pump-018,Generator,Jubilee,2017-08-09,High
+EQ-0019,Heat Exchanger-019,Generator,Jubilee,2016-08-31,Low
+EQ-0020,Valve-020,Pump,Onshore Base,2022-10-29,Medium
+EQ-0021,Valve-021,Heat Exchanger,Onshore Base,2020-03-19,High
+EQ-0022,Compressor-022,Pump,TEN,2017-05-22,Medium
+EQ-0023,Pump-023,Heat Exchanger,Jubilee,2020-02-09,Medium
+EQ-0024,Heat Exchanger-024,Pump,Onshore Base,2019-03-26,Low
+EQ-0025,Generator-025,Generator,TEN,2022-06-09,High
+EQ-0026,Generator-026,Generator,TEN,2017-02-06,Low
+EQ-0027,Valve-027,Generator,Jubilee,2023-02-22,High
+EQ-0028,Heat Exchanger-028,Generator,Jubilee,2022-09-09,Medium
+EQ-0029,Valve-029,Valve,Jubilee,2016-06-26,Medium
+EQ-0030,Valve-030,Generator,Onshore Base,2016-05-08,High
+EQ-0031,Valve-031,Compressor,TEN,2019-05-19,High
+EQ-0032,Compressor-032,Generator,Jubilee,2015-05-15,Medium
+EQ-0033,Pump-033,Valve,Jubilee,2017-06-15,Low
+EQ-0034,Valve-034,Valve,TEN,2018-07-29,Medium
+EQ-0035,Heat Exchanger-035,Valve,Jubilee,2022-12-18,Low
+EQ-0036,Pump-036,Valve,Onshore Base,2023-02-25,Low
+EQ-0037,Heat Exchanger-037,Pump,TEN,2016-03-30,Medium
+EQ-0038,Heat Exchanger-038,Pump,TEN,2022-04-29,Medium
+EQ-0039,Compressor-039,Compressor,Jubilee,2015-09-30,High
+EQ-0040,Generator-040,Pump,TEN,2021-02-23,High
+EQ-0041,Pump-041,Valve,TEN,2021-12-11,Low
+EQ-0042,Generator-042,Generator,TEN,2022-04-26,Medium
+EQ-0043,Generator-043,Generator,Jubilee,2016-11-01,High
+EQ-0044,Compressor-044,Valve,Jubilee,2022-05-04,Medium
+EQ-0045,Pump-045,Heat Exchanger,Jubilee,2015-12-14,Medium
+EQ-0046,Heat Exchanger-046,Valve,TEN,2019-04-06,Low
+EQ-0047,Valve-047,Pump,Jubilee,2018-11-09,Medium
+EQ-0048,Heat Exchanger-048,Generator,Jubilee,2017-08-05,Medium
+EQ-0049,Generator-049,Valve,Jubilee,2015-03-08,Medium
+EQ-0050,Generator-050,Generator,TEN,2021-05-05,Medium
+EQ-0051,Generator-051,Valve,Jubilee,2017-10-03,Medium
+EQ-0052,Pump-052,Valve,Onshore Base,2020-06-07,Low
+EQ-0053,Compressor-053,Pump,TEN,2018-05-15,Medium
+EQ-0054,Valve-054,Valve,Jubilee,2018-01-25,High
+EQ-0055,Valve-055,Generator,TEN,2022-04-12,High
+EQ-0056,Pump-056,Compressor,Jubilee,2015-10-11,Medium
+EQ-0057,Valve-057,Generator,Onshore Base,2021-01-18,Low
+EQ-0058,Pump-058,Pump,TEN,2021-02-18,High
+EQ-0059,Generator-059,Compressor,TEN,2018-02-13,High
+EQ-0060,Generator-060,Valve,Jubilee,2017-02-26,Medium
+EQ-0061,Heat Exchanger-061,Heat Exchanger,TEN,2015-01-16,High
+EQ-0062,Generator-062,Compressor,TEN,2022-09-11,Low
+EQ-0063,Compressor-063,Compressor,Onshore Base,2022-10-14,High
+EQ-0064,Heat Exchanger-064,Valve,TEN,2016-12-23,High
+EQ-0065,Valve-065,Heat Exchanger,TEN,2015-04-06,Low
+EQ-0066,Compressor-066,Heat Exchanger,Jubilee,2016-01-04,High
+EQ-0067,Heat Exchanger-067,Pump,Jubilee,2015-07-22,High
+EQ-0068,Compressor-068,Compressor,TEN,2021-10-29,High
+EQ-0069,Pump-069,Heat Exchanger,Jubilee,2022-04-29,High
+EQ-0070,Valve-070,Pump,Jubilee,2016-04-04,High
+EQ-0071,Generator-071,Heat Exchanger,Onshore Base,2021-02-18,High
+EQ-0072,Pump-072,Compressor,Onshore Base,2016-06-21,High
+EQ-0073,Valve-073,Heat Exchanger,Jubilee,2018-01-06,High
+EQ-0074,Pump-074,Compressor,TEN,2019-12-04,Medium
+EQ-0075,Generator-075,Valve,Jubilee,2020-11-29,Medium
+EQ-0076,Valve-076,Generator,TEN,2022-03-08,Medium
+EQ-0077,Compressor-077,Pump,Jubilee,2015-05-15,High
+EQ-0078,Compressor-078,Valve,TEN,2016-08-12,Medium
+EQ-0079,Valve-079,Valve,TEN,2017-04-21,Low
+EQ-0080,Generator-080,Generator,TEN,2017-07-19,Low
